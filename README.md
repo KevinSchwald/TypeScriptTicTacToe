@@ -1,3 +1,5 @@
+This Project is a Version of the React Tutorial [TicTacToe](https://reactjs.org/tutorial/tutorial.html) written in TypeScript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
